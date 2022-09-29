@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    generate-unique-name: false
+    name: perfumery
+  data:
+    rest:
+      base-path: /data-api
